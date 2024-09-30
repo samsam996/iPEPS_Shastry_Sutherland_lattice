@@ -185,7 +185,7 @@ let
     h::Float64 = 1.; 
     hs::Float64 = 0; 
     temperature = LinRange(5.22, 2.1, 2)
-    unit_cell = "2x2"
+    unit_cell = "6x6"
 
     main(D,J1,J2,h,hs,temperature,unit_cell)
 
