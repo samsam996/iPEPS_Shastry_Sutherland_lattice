@@ -1,3 +1,6 @@
+# thermal iPEPS on the Shastry-Sutherland model
+
+
 The code simulate the thermal properties of the Shastry-Sutherland model (SSM) using iPEPS. The implementation of the U(1) symmetry is done using the iTensor library. 
 
 The cooling down is performed using a 2x2 unit cell. 
